@@ -17,9 +17,8 @@ This project presents an interactive Tableau dashboard that analyzes the Google 
 
 ## 📊 Dashboard Preview
 
-> **Add your dashboard screenshot here**
+<img width="1366" height="631" alt="Screenshot 2026-06-17 133157" src="https://github.com/user-attachments/assets/7900917e-2a2d-460d-91dd-21d851b2d958" />
 
-![Dashboard](Images/Dashboard.png)
 
 ---
 
