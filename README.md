@@ -50,15 +50,7 @@ Google-Play-Store-Analysis-Tableau/
 │
 ├── README.md
 ├── Google_Play_Store_Dashboard.twbx
-│
-├── Dataset/
-│   └── googleplaystore.csv
-│
-├── Images/
-│   └── Dashboard.png
-│
-└── Documentation/
-    └── Project_Report.pdf (Optional)
+├── googleplaystore.csv
 ```
 
 ---
@@ -98,12 +90,6 @@ Google-Play-Store-Analysis-Tableau/
 - App size influences installation trends.
 - Android version compatibility varies across applications.
 - Reviews provide valuable insights into user engagement.
-
----
-
-## 📷 Dashboard
-
-Add additional screenshots inside the **Images** folder if needed.
 
 ---
 
