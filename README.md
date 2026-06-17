@@ -82,17 +82,6 @@ Google-Play-Store-Analysis-Tableau/
 
 ---
 
-## 📌 Key Insights
-
-- Most applications are free.
-- Ratings generally range between 4.0 and 4.5.
-- Certain categories dominate app installations.
-- App size influences installation trends.
-- Android version compatibility varies across applications.
-- Reviews provide valuable insights into user engagement.
-
----
-
 ## 📈 Business Insights
 
 - Free applications account for the majority of apps available on the Play Store.
