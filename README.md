@@ -93,6 +93,16 @@ Google-Play-Store-Analysis-Tableau/
 
 ---
 
+## 📈 Business Insights
+
+- Free applications account for the majority of apps available on the Play Store.
+- Applications with ratings between 4.0 and 4.5 dominate the platform.
+- Categories such as Games and Tools contribute significantly to app installations.
+- User reviews and ratings provide strong indicators of application popularity.
+- Android version compatibility influences app reach and user adoption.
+
+---
+
 ## 👩‍💻 Author
 
 **Amruta Kanchagar**
